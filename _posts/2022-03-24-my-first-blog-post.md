@@ -1,3 +1,8 @@
+---
+title: Dealing with Dead Zone: How to Optimize Fastball Performance
+date: 2022-03-23
+---
+
 Recently, there has been some attention on pitchers who have a “dead zone” fastball. There are certain MLB teams who will hesitate drafting a pitcher whose fastball profiles like this. In this piece, we’ll examine exactly what a dead zone fastball is, how it performs in a pitcher’s arsenal, and determine whether or not organizations should stray away from players with this type of fastball.
 A dead zone fastball is defined as a fastball with equal amount induced vertical break (IVB) and horizontal break (HB). For the rest of the article, when we talk about vertical break, we are using induced vertical break. A fastball with an inch or two difference between IVB and HB can still live in the dead zone, such as a pitch with 16 inches IVB and 14 inches HB. On a pitch movement plot, this would typically be someone who’s fastball falls on the grey diagonal line in the plot below (the line would be mirrored for a left-handed pitcher).
 
