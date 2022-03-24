@@ -1,5 +1,5 @@
 ---
-title: Dealing with Dead Zone: How to Optimize Fastball Performance
+title: "Dealing with Dead Zone: How to Optimize Fastball Performance"
 date: 2022-03-23
 ---
 
