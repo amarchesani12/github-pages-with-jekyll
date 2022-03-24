@@ -3,8 +3,7 @@ title: Austin Marchesani's Research Portfolio
 author: Austin Marchesani
 email: austin12@cfu.net
 description: > # this means to ignore newlines until "baseurl:"
-  This is where I will showcase all of my projects for my MSBA program along with
-  my work as a data analyst for the University of Iowa Baseball Team.
+  All repositories with code used for blog posts and analysis can be found by clicking the GitHub link. Also follow on Twitter for more content!
 
 # social links
 twitter_username: amarchesani12 # DO NOT include the @ character, or else the build will fail!
